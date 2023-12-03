@@ -64,9 +64,7 @@ Junto a algunos diagramas negros, aparece el símbolo "$". Esto indica que la po
 
 ### Imagen
 
-![Buque](../finales-inmutables/assets/img/buque_errante.png)
-
----
+## ![buque errante](https://github.com/dekardinuta/finales-inmutables/blob/main/assets/img/buque_errante.png)
 
 Lo que se vera en este Tutorial será:
 
