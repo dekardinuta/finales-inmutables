@@ -64,7 +64,7 @@ Junto a algunos diagramas negros, aparece el símbolo "$". Esto indica que la po
 
 ### Imagen
 
-![marino_puerto.jpeg](../finales-inmutables/assets/img/marino_puerto.jpeg)
+![Buque](../finales-inmutables/assets/img/buque_errante.png)
 
 ---
 
