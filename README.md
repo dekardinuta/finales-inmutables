@@ -149,3 +149,10 @@ Para crear una instancia de Compute Engine, sigue estos pasos:
 ![Image][2]
 
 [2]: ../finales-inmutables/assets/img/buque_errante.png
+
+```js
+var i;
+for (i = 0; i < 5; i++) {
+  console.log(i);
+}
+```
