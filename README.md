@@ -134,3 +134,17 @@ Para crear una instancia de Compute Engine, sigue estos pasos:
 ```
 
 <!-- TODO: Todas las funcionalidades de html se aplican en Markdown solo que no contamos con emmet -->
+
+---
+
+# Heading 1
+
+## heading 2
+
+[Link a mi Website][1]
+
+[1]: https://cloud.google.com/shell/docs/cloud-shell-tutorials/tutorials?hl=es-419
+
+![Image][2]
+
+[2]: ../finales-inmutables/assets/img/buque_errante.png
