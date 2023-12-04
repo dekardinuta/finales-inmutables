@@ -88,10 +88,11 @@ Lo que se vera en este Tutorial será:
 | Knight or Center Pawn | Caballo       |
 | Rook or Bishop Pawn   | Torre ó Alfil |
 
-1.  Pawn Races
-1.  The Active King
-1.  Zugzwang
-1.  Widening the Beachhead
+    Pawn Races
+    The Active King
+    Zugzwang
+    Widening the Beachhead
+
 1.  The King Routes
 1.  Zigzag
 1.  The Pendulum
