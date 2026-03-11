@@ -1,3 +1,22 @@
+# Finales Inmutables ♟️
+
+Recursos pedagógicos para el estudio del final de juego de ajedrez.
+
+## Sobre este proyecto
+Desarrollado en 2023 como herramienta educativa para la comunidad de ajedrez.
+
+## Stack
+- HTML/CSS puro
+- Diseño responsive
+
+## Conexión con mi trabajo actual
+El pensamiento lógico y estructurado del ajedrez aplica directamente al 
+desarrollo de algoritmos — desde validación de movimientos hasta 
+optimización de procesos en mis sistemas ganaderos.
+
+---
+*Proyecto personal • Activo según demanda de la comunidad*
+
 ## Indice
 
 [Primeros pasos](#primera-versión)\
